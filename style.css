@@ -1,0 +1,50 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+   display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+ }
+ .image
+ {
+    width: 100%;
+ }
+ #start,#status, #restart
+ {
+    font-size: 22px;
+ }
+ .modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+ h4
+ {
+   background-color: aliceblue;
+   line-height:  2;
+   margin:0px ;
+}
+
+.modal-dialog
+{
+   width: 70%;}
+   canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+     
+  }
+#game_console
+  { text-align: left;
+
+  
+}
+
+
+
